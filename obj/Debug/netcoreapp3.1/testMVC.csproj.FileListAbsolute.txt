@@ -35,6 +35,7 @@ C:\Users\Martin\Documents\testMVC\obj\Debug\netcoreapp3.1\testMVC.dll
 C:\Users\Martin\Documents\testMVC\obj\Debug\netcoreapp3.1\testMVC.pdb
 C:\Users\Martin\Documents\testMVC\obj\Debug\netcoreapp3.1\testMVC.genruntimeconfig.cache
 C:\Users\Martin\Documents\testMVC\obj\Debug\netcoreapp3.1\testMVC.csproj.CopyComplete
-C:\Users\Martin\Documents\testMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Wello.cshtml.g.cs
 C:\Users\Martin\Documents\testMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\SignIn.cshtml.g.cs
 C:\Users\Martin\Documents\testMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\SignUp.cshtml.g.cs
+C:\Users\Martin\Documents\testMVC\obj\Debug\netcoreapp3.1\Razor\Views\Projects\Show.cshtml.g.cs
+C:\Users\Martin\Documents\testMVC\obj\Debug\netcoreapp3.1\Razor\Views\Projects\Index.cshtml.g.cs

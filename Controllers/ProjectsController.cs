@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
@@ -9,30 +9,45 @@ using testMVC.Models;
 
 namespace testMVC.Controllers
 {
-    public class HomeController : Controller
+    public class ProjectsController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
+        private readonly ILogger<ProjectsController> _logger;
 
-        public HomeController(ILogger<HomeController> logger)
+        public ProjectsController(ILogger<ProjectsController> logger)
         {
             _logger = logger;
         }
 
+        [HttpGet]
         public IActionResult Index()
         {
             return View();
         }
 
-        public IActionResult SignIn(){
+        public IActionResult Show(int index){
             return View();
         }
 
-        public IActionResult SignUp(){
+        public IActionResult New(){
             return View();
         }
 
-        public IActionResult Privacy()
-        {
+        [HttpPost]
+        public IActionResult Create(){
+            return View();
+        }
+
+        public IActionResult Edit(){
+            return View();
+        }
+
+        [HttpPatch]
+        public IActionResult Update(){
+            return View();
+        }
+
+        [HttpDelete]
+        public IActionResult Delete(){
             return View();
         }
 
