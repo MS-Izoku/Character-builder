@@ -39,3 +39,4 @@ C:\Users\Martin\Documents\testMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\SignI
 C:\Users\Martin\Documents\testMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\SignUp.cshtml.g.cs
 C:\Users\Martin\Documents\testMVC\obj\Debug\netcoreapp3.1\Razor\Views\Projects\Show.cshtml.g.cs
 C:\Users\Martin\Documents\testMVC\obj\Debug\netcoreapp3.1\Razor\Views\Projects\Index.cshtml.g.cs
+C:\Users\Martin\Documents\testMVC\obj\Debug\netcoreapp3.1\Razor\Views\Books\Index.cshtml.g.cs

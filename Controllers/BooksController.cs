@@ -9,14 +9,14 @@ using testMVC.Models;
 
 namespace testMVC.Controllers
 {
-    public class ProjectsController : Controller
+    public class BooksController : Controller
     {
-        private readonly ILogger<ProjectsController> _logger;
+        // private readonly ILogger<BooksController> _logger;
 
-        public ProjectsController(ILogger<ProjectsController> logger)
-        {
-            _logger = logger;
-        }
+        // public ProjectsController(ILogger<BooksController> logger)
+        // {
+        //     _logger = logger;
+        // }
 
         [HttpGet]
         public IActionResult Index()
