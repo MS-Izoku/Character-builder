@@ -9,6 +9,7 @@ using testMVC.Models;
 
 namespace testMVC.Controllers
 {
+     // [Authorize]  // require login in the future
     public class ProjectsController : Controller
     {
         private readonly ILogger<ProjectsController> _logger;
@@ -17,6 +18,7 @@ namespace testMVC.Controllers
         {
             _logger = logger;
         }
+
 
         [HttpGet]
         public IActionResult Index()

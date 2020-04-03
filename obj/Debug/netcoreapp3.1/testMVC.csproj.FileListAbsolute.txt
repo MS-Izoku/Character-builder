@@ -40,3 +40,4 @@ C:\Users\Martin\Documents\testMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\SignU
 C:\Users\Martin\Documents\testMVC\obj\Debug\netcoreapp3.1\Razor\Views\Projects\Show.cshtml.g.cs
 C:\Users\Martin\Documents\testMVC\obj\Debug\netcoreapp3.1\Razor\Views\Projects\Index.cshtml.g.cs
 C:\Users\Martin\Documents\testMVC\obj\Debug\netcoreapp3.1\Razor\Views\Books\Index.cshtml.g.cs
+C:\Users\Martin\Documents\testMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ProjectNavBar.cshtml.g.cs

@@ -34,7 +34,7 @@ namespace testMVC.Controllers
 
         [HttpPost]
         public IActionResult Create(){
-            return View();
+            return RedirectToAction("Show" , "BooksController");
         }
 
         public IActionResult Edit(){
@@ -43,12 +43,12 @@ namespace testMVC.Controllers
 
         [HttpPatch]
         public IActionResult Update(){
-            return View();
+            return RedirectToAction("Show" , "BooksController");
         }
 
         [HttpDelete]
         public IActionResult Delete(){
-            return View();
+            return RedirectToAction("Show" , "BooksController");
         }
     }
 }
