@@ -67,3 +67,14 @@ footer{
   text-align: center;
   justify-content: center;
 }
+
+#changelog{
+  display: flex;
+  justify-content: space-around;
+  background: rgba(255 , 255 , 255 , 0.01);
+  border-radius: 0.25em;
+}
+
+#changelog .subsection{
+
+}
