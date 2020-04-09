@@ -9,3 +9,7 @@ C:\Users\Martin\Documents\testMVC\bin\Debug\netcoreapp2.0\testMVC.dll
 C:\Users\Martin\Documents\testMVC\bin\Debug\netcoreapp2.0\testMVC.pdb
 C:\Users\Martin\Documents\testMVC\obj\Debug\netcoreapp2.0\testMVC.dll
 C:\Users\Martin\Documents\testMVC\obj\Debug\netcoreapp2.0\testMVC.pdb
+C:\Users\Martin\Documents\testMVC\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\Martin\Documents\testMVC\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\Martin\Documents\testMVC\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Users\Martin\Documents\testMVC\obj\Debug\netcoreapp2.0\testMVC.genruntimeconfig.cache

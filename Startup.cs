@@ -7,6 +7,9 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 
+using Microsoft.EntityFrameworkCore;
+using testMVC.Data;
+
 namespace testMVC
 {
     public class Startup
@@ -22,6 +25,8 @@ namespace testMVC
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc();
+                services.AddDbContext<DocumentorContext>(options =>
+            options.UseSqlite(Configuration.GetConnectionString("DocumentorContext")));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
