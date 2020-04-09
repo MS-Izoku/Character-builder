@@ -11,5 +11,6 @@ namespace testMVC.Data
 
         // DB tables w/ models
         public DbSet<Document> Document { get; set; }
+        
     }
 }
