@@ -1,9 +1,10 @@
 using System;
 
-namespace testMVC{
+namespace testMVC.Models{
     public class Document{
-        public string name {get; set;}
-        public string description {get; set;}   // the description that can appear in the thumbnail
-        // has many sections
+        public int Id {get; set;}
+        public string title {get; set;}
+        public string content {get; set;}
+
     }
 }

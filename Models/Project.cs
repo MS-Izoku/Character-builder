@@ -1,10 +1,12 @@
 using System;
 
+// A container class for documentation
+// Has-many Documents
+// Has-many Books
 namespace testMVC.Models{
     public class Project{
-        public string name {get; set;}
-        public string description {get; set;}
-        public int authorID {get; set;}
-        // has many books, documents
+        public int Id {get; set;}
+        public string title {get; set;}
+        public string summary {get; set;}
     }
 }

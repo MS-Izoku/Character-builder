@@ -1,10 +1,12 @@
 using System;
 
-namespace testMVC{
+// Has-many chapters
+// belongs to a project
+namespace testMVC.Models{
     public class Book{
+        public int Id {get; set;}
+        public int projectId {get; set;}    // connects to the Project that it belongs to
         public string title {get; set;}
-        public string description {get; set;} // used in the the thumbnail
-        public string imgUrl {get; set;}
-        // has many chapters
+        public string summary {get; set;}
     }
 }
