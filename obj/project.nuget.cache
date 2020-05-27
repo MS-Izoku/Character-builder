@@ -1,5 +1,6 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "OSVgt+p4CHeGKsDyHV3cZkNGTuK7n1K9laefSf9zrU8cltp/jRQLECb3A/tHnSB2ensSrJW4JDVwVq/UvcAseg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Martin\\Documents\\testMVC\\testMVC.csproj",
@@ -322,4 +323,11 @@
       ]
     }
   ]
+=======
+  "dgSpecHash": "vJCNe+Tvcel4AEW8Zhcf81EN0WqqsKtS9CVGTSv8uaQgQ8Bdp1EavScqqNviqAK9P81WjmJJCIHzCwh+7hxVdw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Martin\\Documents\\testMVC\\testMVC.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+>>>>>>> new-setup
 }
